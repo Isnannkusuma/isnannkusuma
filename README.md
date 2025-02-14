@@ -8,7 +8,7 @@ Saya juga bertanggung jawab menjadi **Asisten Laboratium** Pendidikan Teknik Inf
 
 Saya juga mengikuti **Coding Camp 2025 powered by DBS Foundation Front-End dan Back-end Developer**.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/isnanikusuma)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/isnanikusuma/)ku ya.
 
 <p align="left">
 <a href="https://github.com/Isnannkusuma">
